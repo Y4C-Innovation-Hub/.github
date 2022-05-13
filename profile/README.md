@@ -1,12 +1,13 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ 
+ Y4C is a convening and training space with an aim to invest in open innovation by young people that contributes to both National goals and sustainable development goals.
+ The Y4C Hub provides unique value in its emaphaisis on human centred design (HCD) and challenge-driven approaches where projects are directly linked to solving real challenges facing the society.
+ 
+ Our Activities
+ - Capacity Building
+ - Internship and mentorship
+ - Practical Training
+ - Y4C Design club
+ - Youth Trainer/Mentor
+ 
+Visit us :y4chub.ml
