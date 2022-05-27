@@ -10,4 +10,4 @@
  - Y4C Design club
  - Youth Trainer/Mentor
  
-Visit us :y4chub.ml
+Visit us : http://y4c.udsm.ac.tz
